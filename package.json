@@ -1,0 +1,20 @@
+{
+  "name": "brover-ticket-api",
+  "version": "1.0.0",
+  "description": "The one and only one brover api",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufehv/brover-ticket-api.git"
+  },
+  "author": "Yusuf Yildiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusufehv/brover-ticket-api/issues"
+  },
+  "homepage": "https://github.com/yusufehv/brover-ticket-api#readme"
+}
